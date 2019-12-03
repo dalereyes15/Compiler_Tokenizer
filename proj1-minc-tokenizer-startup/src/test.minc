@@ -1,0 +1,43 @@
+main()
+{
+}
+main()
+{
+    print a;
+}
+main()
+{
+    a = 1;
+}
+main()
+{
+    a = bcd + 2 * 3;
+    b = 1.234;
+}
+main()
+{
+	a = a(1,2-3,4);
+    b = 3.;
+}
+main()
+{
+	if(AB>=b)
+		print x;
+    b = .3;
+}
+main()
+{
+	if(a!=_b)
+		print _x_12y_13x;
+    else
+        a = b / 2;
+    12_3a
+}
+main()
+{
+    a = 1.234;
+    if a<=2<b==c>NaN_ {
+       
+    }
+    _NaN = 1.23.4;
+}
